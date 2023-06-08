@@ -1,0 +1,4 @@
+#!/bin/bash
+su betty << EOF
+id -u -n betty
+why
