@@ -1,1 +1,1 @@
-This script is basically on variables expansions
+This script contains the basics of shell variables expansions.
